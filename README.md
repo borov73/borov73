@@ -1,79 +1,61 @@
 <div align="center">
-  <img src="./assets/header.svg" width="100%" alt="Leo | Python, Automation, Web3 and Aviation" />
+  <img src="./assets/header.png" width="100%" alt="Leo | Crypto, Automation and Web3" />
 
   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=5EEAD4&center=true&vCenter=true&width=660&lines=Building+tools+that+make+life+easier;Exploring+automation+and+Web3;Always+learning.+Always+shipping." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Building+tools+for+crypto+and+automation;Exploring+Web3+infrastructure+and+workflows;Learning+fast.+Shipping+often." alt="Animated introduction" />
 
   <br />
 
-  <a href="https://github.com/borov73?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-1d2d4b?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="https://github.com/borov73"><img src="https://img.shields.io/badge/GitHub-@borov73-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://github.com/borov73?tab=repositories"><img src="https://img.shields.io/badge/Explore-My_Repositories-1e3a8a?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
 </div>
 
 ## 👋 About me
 
-I'm **Leo** — a Python developer interested in **automation**, **Web3**, and **aviation**.
+I'm **Leo** — a Python developer focused on **crypto**, **automation**, and **Web3**.
 
-I enjoy turning repetitive tasks into useful tools, exploring blockchain infrastructure, and learning better ways to build and ship software.
+I build practical tools that simplify repetitive workflows and explore blockchain infrastructure, EVM networks, and on-chain integrations.
 
-- ⚙️ **Automation:** workflows, bots, integrations, and practical tooling
-- ⛓️ **Web3:** on-chain interactions, blockchain infrastructure, and EVM ecosystems
-- ✈️ **Aviation:** a major part of my interests beyond software
-- 🚀 **Currently exploring:** AI-assisted development with Codex, Git, and GitHub workflows
+- ⚙️ **Automation:** bots, workflows, APIs, and integrations
+- 🪙 **Crypto & Web3:** EVM networks, wallets, on-chain actions, and infrastructure
+- 🚀 **Currently exploring:** AI-assisted development with Codex, Git, and GitHub
 
 ## 🧰 Tech & tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,pycharm,vscode,linux&theme=dark" alt="Python, Git, GitHub, PyCharm, VS Code and Linux" />
-</div>
 
-<p align="center"><code>Python</code> · <code>Web3.py</code> · <code>APIs</code> · <code>Git</code> · <code>Automation</code> · <code>macOS</code></p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Web3.py](https://img.shields.io/badge/Web3.py-627EEA?style=flat-square&logo=ethereum&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-0F766E?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-0891B2?style=flat-square)
+![macOS](https://img.shields.io/badge/macOS-334155?style=flat-square&logo=apple&logoColor=white)
+
+</div>
 
 ## 🚀 Featured work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Description |
+|:--|:--|
+| 🔐 [vpn_payment](https://github.com/borov73/vpn_payment) | Telegram bot project for VPN payments using ETH and automation. |
+| 🧪 [first_repository](https://github.com/borov73/first_repository) | A space for practicing Git, GitHub, and development workflows. |
 
-### 🔐 [vpn_payment](https://github.com/borov73/vpn_payment)
-
-A Telegram bot project for tracking VPN payments in ETH on Base, with EUR balances and reminders.
-
-**Focus:** Telegram · Web3 · Payments · Automation
-
-</td>
-<td width="50%" valign="top">
-
-### 🧪 [first_repository](https://github.com/borov73/first_repository)
-
-My early GitHub playground for experimenting with repositories, version control, and development workflows.
-
-**Focus:** Learning · Git · GitHub
-
-</td>
-</tr>
-</table>
-
-## 📡 What I'm focused on
+## 🎯 Current focus
 
 ```text
-AUTOMATION     [██████████]  Python tools & workflows
-WEB3           [██████████]  EVM and on-chain interactions
-AI WORKFLOWS   [██████████]  Codex-assisted development
-AVIATION       [██████████]  Always on my radar
+CRYPTO       → On-chain interactions and blockchain infrastructure
+AUTOMATION   → Bots, APIs, and scalable workflows
+WEB3         → EVM ecosystems and practical tooling
+AI WORKFLOW  → Codex, Git, and GitHub
 ```
 
 ## 📊 GitHub activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=borov73&show_icons=true&hide_border=true&bg_color=0d1426&title_color=5eead4&text_color=cbd5e1&icon_color=60a5fa" alt="Leo's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=borov73&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563eb&text_color=334155&icon_color=06b6d4" alt="Leo's GitHub stats" height="170" />
 </div>
 
-> Note: The GitHub statistics card is hosted by an external community service, so it may occasionally be unavailable. GitHub's native contribution graph remains visible on my profile.
-
----
-
 <div align="center">
-  <sub>Build thoughtfully. Automate relentlessly. Keep exploring. ✈️</sub>
+  <sub>Build useful things. Automate what matters. Keep shipping. ⚡</sub>
 </div>
